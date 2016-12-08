@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sitemesh xmlns="http://sitemesh.org/xml/config">
+    <mapping>
+        <path>/*</path>
+        <decorator>/WEB-INF/views/layouts/template.jsp</decorator>
+    </mapping>
+</sitemesh>
